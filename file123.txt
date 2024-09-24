@@ -1,0 +1,18 @@
+Coding is done in different languages.
+Those are programming languages.
+some programming languages are:
+C 
+Python
+Java
+Javascript
+HTML
+CSS
+DBMS
+DS
+Angular
+React JS
+Julia
+Apart from these languages also need cloud to store the data.
+AWS
+Azure
+Google cloud
